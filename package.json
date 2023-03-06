@@ -1,5 +1,5 @@
 {
-  "name": "react-native-background-timer",
+  "name": "@spicysparks/react-native-background-timer",
   "version": "2.4.1",
   "description": "Emit event periodically (even when app is in the background)",
   "keywords": [
@@ -17,9 +17,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ocetnik/react-native-background-timer.git"
+    "url": "https://github.com/Spicy-Sparks/react-native-background-timer.git"
   },
-  "author": "David Ocetnik",
+  "author": "Spicy Sparks",
   "license": "MIT",
   "peerDependencies": {
     "react-native": ">=0.47.0"
